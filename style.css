@@ -31,7 +31,7 @@ body, html {
 
 #gray_box {
     width: 249px;
-    height: 426.5px;
+    height: auto;
     background-color: #C8C8C8;
     border-radius: 15px;
     margin-top: 65px;
@@ -86,6 +86,23 @@ body, html {
 
 .input-field::placeholder {
     color: #777;
+}
+
+#update_button {
+    background-color: #FF9900;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+#update_button:hover {
+    background-color: #e68a00;
 }
 
 #linha {
