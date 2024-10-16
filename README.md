@@ -7,5 +7,5 @@
 > - Criado com HTML, CSS, JavaScript e FIGMA
 
 <p align="center">
-  <img alt="Foto do projeto" src="https://f.feridinha.com/yA8QX.png" width="100%">
+  <img alt="Foto do projeto" src="https://f.feridinha.com/aRL3n.png" width="100%">
 </p>
