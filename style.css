@@ -117,5 +117,6 @@ footer {
     margin-top: auto;
     position:absolute;
     bottom: 0;
-    width: 100%;
+    width: 100vw;
+    position: fixed;
 }
